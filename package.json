@@ -1,5 +1,5 @@
 {
-  "name": "contract-abi",
+  "name": "@nooki-dev/contract-abi",
   "version": "1.0.0",
   "description": "Deployed contract ABIs, for distributed use",
   "repository": {
