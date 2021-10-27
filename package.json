@@ -1,6 +1,6 @@
 {
   "name": "@nooki-dev/contract-abi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Deployed contract ABIs, for distributed use",
   "repository": {
     "type": "git",
