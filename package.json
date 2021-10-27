@@ -1,0 +1,15 @@
+{
+  "name": "contract-abi",
+  "version": "1.0.0",
+  "description": "Deployed contract ABIs, for distributed use",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanuki-NFT-Dev/contract-abi.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tanuki-NFT-Dev/contract-abi/issues"
+  },
+  "homepage": "https://github.com/Tanuki-NFT-Dev/contract-abi#readme"
+}
